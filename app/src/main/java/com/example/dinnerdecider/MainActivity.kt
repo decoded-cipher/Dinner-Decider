@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
             foodList.add(newFood)
             addFoodText.text.clear()
             println(foodList)
+
         }
     }
 }
